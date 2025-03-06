@@ -1,0 +1,11 @@
+F:\spooky\target\debug\deps\libwindows_registry-2852609c80a70e75.rmeta: C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-registry-0.2.0\src\lib.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-registry-0.2.0\src\bindings.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-registry-0.2.0\src\key.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-registry-0.2.0\src\value.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-registry-0.2.0\src\key_iterator.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-registry-0.2.0\src\value_iterator.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-registry-0.2.0\src\type.rs
+
+F:\spooky\target\debug\deps\windows_registry-2852609c80a70e75.d: C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-registry-0.2.0\src\lib.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-registry-0.2.0\src\bindings.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-registry-0.2.0\src\key.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-registry-0.2.0\src\value.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-registry-0.2.0\src\key_iterator.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-registry-0.2.0\src\value_iterator.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-registry-0.2.0\src\type.rs
+
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-registry-0.2.0\src\lib.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-registry-0.2.0\src\bindings.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-registry-0.2.0\src\key.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-registry-0.2.0\src\value.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-registry-0.2.0\src\key_iterator.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-registry-0.2.0\src\value_iterator.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-registry-0.2.0\src\type.rs:

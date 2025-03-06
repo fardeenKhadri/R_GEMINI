@@ -1,0 +1,12 @@
+F:\spooky\target\debug\deps\libhttparse-4ad430ed7db6a3c8.rmeta: C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\httparse-1.10.0\src\lib.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\httparse-1.10.0\src\iter.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\httparse-1.10.0\src\macros.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\httparse-1.10.0\src\simd\mod.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\httparse-1.10.0\src\simd\swar.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\httparse-1.10.0\src\simd\sse42.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\httparse-1.10.0\src\simd\avx2.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\httparse-1.10.0\src\simd\runtime.rs
+
+F:\spooky\target\debug\deps\httparse-4ad430ed7db6a3c8.d: C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\httparse-1.10.0\src\lib.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\httparse-1.10.0\src\iter.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\httparse-1.10.0\src\macros.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\httparse-1.10.0\src\simd\mod.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\httparse-1.10.0\src\simd\swar.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\httparse-1.10.0\src\simd\sse42.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\httparse-1.10.0\src\simd\avx2.rs C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\httparse-1.10.0\src\simd\runtime.rs
+
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\httparse-1.10.0\src\lib.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\httparse-1.10.0\src\iter.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\httparse-1.10.0\src\macros.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\httparse-1.10.0\src\simd\mod.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\httparse-1.10.0\src\simd\swar.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\httparse-1.10.0\src\simd\sse42.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\httparse-1.10.0\src\simd\avx2.rs:
+C:\Users\hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\httparse-1.10.0\src\simd\runtime.rs:
